@@ -17,10 +17,6 @@ module.exports = {
         padding: "108px 142px 90px 98px",
         center: true,
       },
-      screens: {
-        sm: "390px",
-        xs: "1366px",
-      },
       boxShadow: {
         card: "0px 0px 27px rgba(0, 0, 0, 0.05)",
       },
